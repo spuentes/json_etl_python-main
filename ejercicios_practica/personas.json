@@ -1,0 +1,32 @@
+[
+    {
+        "nombre": "Juanito",
+        "apellido": "PegaDoble",
+        "dni": 11,
+        "vestimenta": [
+            {
+                "prenda": "zapatilla",
+                "cantidad": 4
+            },
+            {
+                "prenda": "remeras",
+                "cantidad": 12
+            }
+        ]
+    },
+    {
+        "nombre": "Pepito",
+        "apellido": "MilPulgas",
+        "dni": 12,
+        "vestimenta": [
+            {
+                "prenda": "camisa",
+                "cantidad": 5
+            },
+            {
+                "prenda": "jeans",
+                "cantidad": 2
+            }
+        ]
+    }
+]
